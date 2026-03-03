@@ -36,13 +36,8 @@ The **Messenger** is the current core artifact of this repository.
 It is **not a simulation** and **not a numerical fit**.  
 It is a **deterministic derivation chain** starting from a single axiom:
 
-
-
-\[
-J = 1 + \zeta_5^2 \quad \text{with} \quad \zeta_5 = e^{2\pi i/5}
-\]
-
-
+ζ₅ = e^{2πi/5}
+J  = 1 + ζ₅²
 
 From this axiom, the script defines — step by step and with internal consistency locks:
 
