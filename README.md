@@ -11,7 +11,14 @@ This repository explores how **arithmetic structure gives rise to geometry, dyna
 
 ## 🔭 Focus Areas
 
-- Cyclotomic fields and the operator \( J = 1 + \zeta_5^2 \)
+- Let ζ₅ be a primitive 5th root of unity.
+  
+Cyclotomic field:
+  ℚ(ζ₅)
+
+Operator:
+  J = 1 + ζ₅²
+
 - Golden‑ratio contraction and scale generation
 - Fibonacci interference and discrete wave structure
 - Pentagonal and icosahedral geometry (A₅ symmetry)
