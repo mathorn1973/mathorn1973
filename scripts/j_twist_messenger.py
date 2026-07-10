@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-J-TWIST Canon -- Messenger v5.0
+TWIST-J Canon -- Messenger v6.0
 =================================
 
 The complete derivation chain from J = 1 + zeta_5^2.
@@ -24,7 +24,8 @@ No simulation. No fitting. No parameters.
 No random. No sweep. No external input.
 It speaks. It checks. It ends.
 
-Canon v5.0
+Messenger v6.0, aligned with the public Manifest (twistj.com/manifest).
+A finite rule, unbounded becoming. TWIST-J. Hub: twistj.com.
 A. M. Thorn, 2025/2026
 ORCID: 0009-0008-5463-278X
 X: @amthorn73
@@ -746,8 +747,8 @@ def run():
 
     print()
     print("=" * W_)
-    print("  J-TWIST CANON -- MESSENGER v5.0")
-    print("  A. M. Thorn | 2025/2026")
+    print("  TWIST-J CANON -- MESSENGER v6.0")
+    print("  A. M. Thorn | twistj.com | 2025/2026")
     print("  Analytical + Binary Kernel + Zeta Layer")
     print("=" * W_)
 
@@ -1225,15 +1226,39 @@ def run():
     print(f"    Zeta layer:    {zp}/{zt} checks PASS")
     print(f"    Analytical:    7 observables vs CODATA")
 
+    # STRUCTURE
+    print()
+    print("=" * W_)
+    print("  STRUCTURE (Canon, twistj.com/canon)")
+    print("=" * W_)
+    print()
+    print("  M_J: 4x4 integer matrix, {-1,0,1}, det 1, trace 3")
+    print("  step group 2I = SL(2,5); McKay -> affine tilde-E8")
+    print("  stable classes: 313 attractors = 125+125+62+1")
+    print("  two forces = two projections of J:")
+    print("    |J|    = 1/phi    -> gravity / scale")
+    print("    arg(J) = 2pi/5    -> electromagnetism / phase")
+    print("  E_total = 0: a theorem of the closed plenum, not input")
+
     # KILL SHOTS
     print()
     print("=" * W_)
-    print("  THREE KILL SHOTS")
+    print("  KILL SHOTS (armed)")
     print("=" * W_)
     print()
     print("  1. sin2(W) outside [0.2305, 0.2320]: dead")
     print("  2. m_gamma != 0: dead")
-    print("  3. 4th generation found: dead")
+    print("  3. 4th sequential generation found: dead")
+    print("  4. O-TT-GAUGE-DERIVATION fails its falsifier: dead")
+    print("     (exponential metric already refuted by the")
+    print("      GW250114 ringdown; a closed GW sector was")
+    print("      derived the same day; this derivation is owed)")
+    print()
+    print("  LIVE TRIAL (prediction on the table)")
+    print()
+    print("    dark energy w = -14/15, now facing DESI")
+    print("    m_p/m_e = 6 pi^5 (1 + a^2/3): residual ~ -1 ppm,")
+    print("      expected QCD, admitted not celebrated")
 
     # CODA
     print()
@@ -1241,6 +1266,9 @@ def run():
     print()
     print("  Two voices. One axiom. Zero parameters.")
     print("  The continuous and the discrete agree.")
+    print()
+    print("  TWIST-J. A finite rule, unbounded becoming.")
+    print("  twistj.com/manifest")
     print()
     print("  Simplizis.")
     print()
