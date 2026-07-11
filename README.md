@@ -17,6 +17,7 @@ Computed entirely in integers. Zero free dimensionless parameters. One SI calibr
 
 > If it cannot be calculated in integers, it is not physics.
 
+You can find quick canon overview at [hub](https://twistj.com/canon/core/)
 ---
 
 ## What TWIST-J is
