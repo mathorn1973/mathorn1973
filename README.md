@@ -12,10 +12,10 @@ Take `j = ζ₅`, the primitive fifth root of unity `exp(2πi/5)`, and set `J = 
 (1, 0, 0, 0) → (1, 0, 1, 0) → (0, −1, 1, −1)
 ```
 
-- [Research questions](https://twistj.com/questions/index.html) follow each result to the next open step.
-- [Public Canon](https://github.com/mathorn1973/twist-j/releases/latest) gives the current release, with links to the claims and their evidence.
+- [Research questions](https://twistj.com/questions/index.html) trace selected results to their next open steps.
+- [Public Canon](https://github.com/mathorn1973/twist-j/releases/latest) opens the latest release. The [claim registry](https://github.com/mathorn1973/twist-j/blob/main/canon/REGISTRY.tsv) records the status and evidence for each registered claim.
 - [Kernel verifier](https://github.com/mathorn1973/twist-j/tree/main/reproduce/kernel#readme) runs fifteen exact checks in Python.
-- [Papers](https://twistj.com/papers/index.html) collects the papers, their deposited editions and reproduction files.
+- [Papers](https://twistj.com/papers/index.html) links to deposited editions and reproduction files.
 
 ## Earlier work
 
